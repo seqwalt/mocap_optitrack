@@ -33,7 +33,6 @@
 #include <mocap_optitrack/mocap_config.h>
 #include <mocap_optitrack/rigid_body_publisher.h>
 #include "natnet/natnet_messages.h"
-#include "mocap_optitrack/MocapOptitrackConfig.h"
 #include <dynamic_reconfigure/server.h>
 
 // ROS includes
