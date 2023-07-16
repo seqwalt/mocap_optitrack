@@ -5,8 +5,9 @@
 rigid_bodies:
     '21':
         pose: vioquad/pose
+        odom: vioquad/odom
         child_frame_id: vioquad/base_link
-        parent_frame_id: world
+        parent_frame_id: map
 optitrack_config:
         multicast_address: 239.255.42.99
         command_port: 1510
